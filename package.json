@@ -1,5 +1,5 @@
 {
-  "homepage": "https://fabiosmorinigo.github.io/administradorDeCitasVeterinaria",
+  "homepage": "https://fabiosmorinigo.github.io/citasMascotas/",
   "name": "citas",
   "version": "0.1.0",
   "private": true,
@@ -47,12 +47,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fabiosmorinigo/administradorPacientes.git"
+    "url": "git+https://github.com/fabiosmorinigo/citasMascotas.git"
   },
   "keywords": [],
   "author": "Fabio Sosa <fabio_sosapy@outlook.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fabiosmorinigo/administradorPacientes/issues"
+    "url": "https://github.com/fabiosmorinigo/citasMascotas/issues"
   }
 }
