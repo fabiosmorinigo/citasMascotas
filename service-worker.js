@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/administradorDeCitasVeterinaria/precache-manifest.ef34eecd969726a72a61446744e08f46.js"
+  "/citasMascotas/precache-manifest.f0a0b05fba78281b3d692f6c6cbe1998.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/administradorDeCitasVeterinaria/index.html", {
+workbox.routing.registerNavigationRoute("/citasMascotas/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
