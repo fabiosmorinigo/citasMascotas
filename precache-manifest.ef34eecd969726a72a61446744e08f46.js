@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "2d2b7396805f6e365d95",
+    "revision": "b906061a2ce512762e63",
     "url": "/administradorDeCitasVeterinaria/static/css/main.f04e7a80.chunk.css"
   },
   {
-    "revision": "2d2b7396805f6e365d95",
-    "url": "/administradorDeCitasVeterinaria/static/js/main.2d2b7396.chunk.js"
+    "revision": "b906061a2ce512762e63",
+    "url": "/administradorDeCitasVeterinaria/static/js/main.b906061a.chunk.js"
   },
   {
-    "revision": "b1afefa29afa4e553c2b",
-    "url": "/administradorDeCitasVeterinaria/static/js/1.b1afefa2.chunk.js"
+    "revision": "ec11ac88537282f30eaf",
+    "url": "/administradorDeCitasVeterinaria/static/js/1.ec11ac88.chunk.js"
   },
   {
     "revision": "28211d4e492f21424a06",
@@ -20,11 +20,7 @@ self.__precacheManifest = [
     "url": "/administradorDeCitasVeterinaria/static/media/background.26999bb8.jpg"
   },
   {
-    "revision": "beaeab17883fa2c65934facc5624dd14",
-    "url": "/administradorDeCitasVeterinaria/static/media/logo.beaeab17.png"
-  },
-  {
-    "revision": "636132c35ecd3a4969fcadcd4029210c",
+    "revision": "846f75d519239a98804c3cb0e4687cd6",
     "url": "/administradorDeCitasVeterinaria/index.html"
   }
 ];

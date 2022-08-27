@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/administradorDeCitasVeterinaria/precache-manifest.ada24dce90026d7641a3d5db4b96a0a6.js"
+  "/administradorDeCitasVeterinaria/precache-manifest.ef34eecd969726a72a61446744e08f46.js"
 );
 
 workbox.clientsClaim();
